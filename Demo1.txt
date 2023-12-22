@@ -99,10 +99,7 @@
 	  }
 	  
 	  public static void main(String[] args) {	
-	   	  // Language Basics 1
-		  //print();	  
-		  //primitives();
-		  //typeCasting();	
+	   	 	
           arrays();		  
 	  }       
 }
